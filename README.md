@@ -1,0 +1,6 @@
+# JuliaMemExample
+
+
+```
+julia init.jl
+```
